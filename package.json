@@ -1,5 +1,5 @@
 {
-  "name": "weather-journal-app",
+  "name": "weather-app",
   "version": "1.0.0",
   "description": "Udacity front end nanodegree weather journal app project",
   "main": "server.js",

@@ -24,7 +24,7 @@ const port = 8000;
 app.listen(port, listening);
 
 function listening() {
-    console.log(`Server is running on localhost: ${port}`);
+    console.log(`Server is running on localhost:${port}`);
 }
 
 // GET route
